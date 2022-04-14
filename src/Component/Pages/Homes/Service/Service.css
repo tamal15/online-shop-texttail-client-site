@@ -1,0 +1,36 @@
+.project{
+    overflow: hidden;
+    position:relative;
+    border: 2px solid skyblue !important;
+    
+}
+.text-infos{
+    color:brown;
+}
+
+.tittle{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    width:100%;
+    text-align: center;
+    z-index:10;
+    color:black;
+    background: darkcyan;
+    padding:8px 12px;
+    font-size: 25px;
+    transition: all .5s ease;
+}
+
+.project img{
+    filter: brightness(.5);
+    transition: all .2s ease;
+    height:300px;
+    width:530px;
+    /* object-fit: cover; */
+}
+
+.works{
+     background-color: #22514f;
+}

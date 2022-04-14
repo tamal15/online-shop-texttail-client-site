@@ -1,0 +1,42 @@
+.nav{
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+    padding:12px;
+    margin:6px;
+}
+.drops-buttons{
+   font-size: 23px;
+   padding:8px;
+   margin-top: 5px;
+   color:white;
+}
+.use{
+    color:pink;
+    text-decoration: none;
+    font-size: 23px;
+    padding:12px;
+    margin:6px;
+}
+.log{
+    padding:5px;
+    margin-top: 5px;
+}
+.topper{
+    color:white !important;
+}
+/* .carousel-design{
+    display:inline;
+    grid-template-columns: repeat(2,1fr);
+} */
+/* .styles{
+    text-align: left;
+    margin-left: -620px;
+    margin-top: 20px;
+} */
+.long{
+    background-color: black !important;
+    color:white !important;
+    font-size: 22px !important;
+    font-weight: 600 !important;
+}

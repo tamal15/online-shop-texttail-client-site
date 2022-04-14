@@ -1,0 +1,17 @@
+.button{
+    /* background-color: #f44336; */
+    background-color: #f7345e;
+    padding: 8px;
+    border-radius: 8px;
+    color:white;
+    width:130px;
+    border:lightgrey;
+}
+.names{
+    color:white;
+}
+
+.work{
+    /* background-color: #22514f; */
+    background-color: black;
+}
